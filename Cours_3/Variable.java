@@ -11,15 +11,15 @@
  */
 
 public class Variable {
-    public static void main(string[] args){
+    public static void main(String[] args){
         int ageUser = 0;
 
-        System.out.println(ageUser)
+        System.out.println(ageUser);
 
         ageUser = 25;
         System.out.println(ageUser);
 
-        final float PI = 3.14;
+        final float PI = 3.14F;
         System.out.println(PI);
     }
 }

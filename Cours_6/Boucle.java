@@ -1,5 +1,5 @@
 public class Boucle {
-    public static void main(string[] args){
+    public static void main(String[] args){
         int i = 10;
 
         do{
